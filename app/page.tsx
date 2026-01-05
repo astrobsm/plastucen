@@ -104,9 +104,12 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-12 sm:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl sm:text-5xl font-bold mb-4 sm:mb-6 animate-fade-in">
+          <h2 className="text-3xl sm:text-5xl font-bold mb-2 sm:mb-3 animate-fade-in">
             Master Plastic Surgery
           </h2>
+          <p className="text-sm sm:text-base mb-4 sm:mb-6 text-blue-200 italic max-w-2xl mx-auto">
+            Designed by Dr. E. C. Nnadi in honor of J. U. Achebe—a teacher and mentor par excellence to plastic surgeons and trainees.
+          </p>
           <p className="text-lg sm:text-xl mb-6 sm:mb-8 text-blue-100 max-w-3xl mx-auto animate-slide-up">
             Comprehensive study platform with CME content, clinical practice guidelines, 
             and self-assessment tools. Available offline, anytime, anywhere.
@@ -176,8 +179,8 @@ export default function HomePage() {
             <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">
               Why Choose Our Platform?
             </h3>
-            <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
-              Designed by DR NNADI in honor of my teacher J. U. ACHEBE a teacher and mentor per excellence, for plastic surgeons and trainees
+            <p className="text-base sm:text-lg text-gray-600 max-w-3xl mx-auto">
+              Our platform provides a quick yet comprehensive tour of reconstructive and aesthetic surgery, combining high-yield clinical content with a strong examination-focused approach. Integrated self-assessment tools reinforce learning, test understanding, and prepare users confidently for postgraduate and professional examinations—while maintaining practical relevance for everyday clinical practice.
             </p>
           </div>
           
