@@ -1,0 +1,62 @@
+{
+  "name": "PlasticSurgery Study Center",
+  "short_name": "PS Study",
+  "description": "Comprehensive Plastic Surgery Study Center with CME, Practice Guidelines, and Self-Assessment - Works Offline",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["education", "medical", "productivity"],
+  "shortcuts": [
+    {
+      "name": "CME Modules",
+      "short_name": "CME",
+      "description": "Access CME examination content",
+      "url": "/cme",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Self Assessment",
+      "short_name": "MCQ",
+      "description": "Practice with MCQ tests",
+      "url": "/assessment",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Guidelines",
+      "short_name": "Guidelines",
+      "description": "Practice guidelines and protocols",
+      "url": "/guidelines",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr"
+}
