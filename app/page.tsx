@@ -108,7 +108,7 @@ export default function HomePage() {
             Master Plastic Surgery
           </h2>
           <p className="text-sm sm:text-base mb-4 sm:mb-6 text-blue-200 italic max-w-2xl mx-auto">
-            Designed by Dr. E. C. Nnadi in honor of J. U. Achebe—a teacher and mentor par excellence to plastic surgeons and trainees.
+            Designed by Dr. E. C. Nnadi in appreciation of J. U. Achebe; I. S. Ogbonnaya and I. I. Onah—distinguished teachers and mentors par excellence.
           </p>
           <p className="text-lg sm:text-xl mb-6 sm:mb-8 text-blue-100 max-w-3xl mx-auto animate-slide-up">
             Comprehensive study platform with CME content, clinical practice guidelines, 
